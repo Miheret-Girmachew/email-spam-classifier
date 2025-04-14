@@ -21,6 +21,7 @@ This project implements a machine learning-based email spam classifier using Pyt
    cd email-spam-classifier
    python app.py
    pip install -r requirements.txt
-   streamlit run app.py
+   python -m streamlit run app.py
+
   
 
